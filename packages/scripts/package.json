@@ -96,7 +96,7 @@
 	},
 	"devDependencies": {
 		"@types/jest": "25.1.4",
-		"@types/node": "13.9.2",
+		"@types/node": "13.13.12",
 		"@wpackio/eslint-config": "^4.4.1",
 		"babel-jest": "25.1.0",
 		"cross-env": "7.0.2",
